@@ -14,13 +14,13 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="indevloper.gif">
-    <h2 align="center">Tecnogias Usadas</h2>
+    <h1 align="center">Tecnogias Usadas</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    </div>
     
-  <h2 align="center">Redes Sociais</h2>
+  <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: alicesantoss0805@gail.com">
       <img width="30" src="gmail.svg">
     </a>
