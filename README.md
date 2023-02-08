@@ -1,8 +1,8 @@
 ## Olá!! Eu sou a Alice, Prazer 👋
 
-- Atualmente estou cursando: 3° ano do Ensino Médio TEC em Desenvolvimento de Sistemas
-- Aprendendo sobre: Az-900 | Python | Banco de Dados Relacionais(MySQL, SQL, Oracle)
-- 😄 Pronouns: Ela/dela
+- 😁 Tenho 17 anos, moro em SP-São Paulo
+- 👩‍💻 Cursando: 3° ano do Ensino Médio TEC em Desenvolvimento de Sistemas
+- 🎀🔊 Pronouns: Ela/dela
 
 <div>
   
