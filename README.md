@@ -23,13 +23,13 @@
    </div>
     
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: alicesantoss0805@gail.com">
+    <a href = "mailto: alicesantoss0805@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = " ">
+    <a href = "https://www.linkedin.com/in/alice-santos-588a62243/">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "">
+    <a href = "https://www.instagram.com/alicee_sb1/">
       <img width="25" src="instagram.png">
     </a>
 </div>
