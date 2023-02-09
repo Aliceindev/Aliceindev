@@ -1,6 +1,6 @@
 ## Olá!! Eu sou a Alice, Prazer 👋
 
-- 😁 Tenho 17 anos, moro em SP-São Paulo
+- 😊 Tenho 17 anos, moro em SP-São Paulo
 - 👩‍💻 Cursando: 3° ano do Ensino Médio TEC em Desenvolvimento de Sistemas
 - 🎀🔊 Pronouns: Ela/dela
 
