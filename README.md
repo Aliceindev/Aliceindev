@@ -4,11 +4,10 @@
 - 👩‍💻 Cursando: 3° ano do Ensino Médio TEC em Desenvolvimento de Sistemas
 - 🎀🔊 Pronouns: Ela/dela
 
-<div>
-  <img aling="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=Aliceindev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliceindev&layout=compact&langs_count=16&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Aliceindev&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliceindev&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
