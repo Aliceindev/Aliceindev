@@ -1,4 +1,4 @@
-## Olá!! Eu sou a Alice, Prazer 👋
+<!--## Olá!! Eu sou a Alice, Prazer 👋
 
 - 😊 Tenho 17 anos, moro em SP-São Paulo
 - 👩‍💻 Cursando: 3° ano do Ensino Médio TEC em Desenvolvimento de Sistemas
@@ -7,7 +7,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <!--<img align="left" height="250" alt="coding-time" src="">-->
+    <img align="left" height="250" alt="coding-time" src="">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -29,4 +29,4 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-
+-->
