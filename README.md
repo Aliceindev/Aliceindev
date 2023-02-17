@@ -4,15 +4,6 @@
 - 👩‍💻 Cursando: 3° ano do Ensino Médio TEC em Desenvolvimento de Sistemas
 - 🎀🔊 Pronouns: Ela/dela
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Aliceindev&show_icons=true&count_private=true&hide_border=true&title_color=5c4dce&icon_color=ff91a4&text_color=c5c4dce&bg_color=0d1117" alt="Alice Santos github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliceindev&layout=compact&hide_border=true&title_color=5c4dce&text_color=5c4dce&bg_color=0d1117" />
-</div>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Caroline Barbosa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
