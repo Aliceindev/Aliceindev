@@ -1,4 +1,4 @@
-<img align="right" height="550px" width="490px" src="https://raw.githubusercontent.com/gist/Aliceindev/0e2885667f60d17800cb07350a4f9f38/raw/69c2bd0589a6055e24e1ee74b608c245b978f8c3/githubcard1.svg"/>
+<img align="right" height="590px" width="490px" src="https://raw.githubusercontent.com/gist/Aliceindev/0e2885667f60d17800cb07350a4f9f38/raw/69c2bd0589a6055e24e1ee74b608c245b978f8c3/githubcard1.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alice Santos</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aliceindev&color=yellow" alt="Profile views" /> </p>
 
