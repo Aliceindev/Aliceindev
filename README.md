@@ -63,4 +63,4 @@
 </a>
 </p>
 
-<img align="center" src="jujutsu.gif"/>
+<!--<img align="center" src="jujutsu.gif"/>-->
