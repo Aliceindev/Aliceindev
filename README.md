@@ -12,8 +12,7 @@
 
 <!--- 🎗 Pronoun **She/her 😜**-->
 
-- 🔊 Motivational Quote: Our lives are busy and full of obligations,
- but we can't let that get us down! Never give up
+- 🔊 Motivational Quote: Our lives are busy and full of obligations, but we can't let that get us down! Never give up
 
 <!--  👨‍💻 More at [aliceindev.dev](https://aliceindev.dev)-->
 
