@@ -12,7 +12,8 @@
 
 <!--- 🎗 Pronoun **She/her 😜**-->
 
-- 🔊 Motivational Quote: Our lives are busy and full of obligations, but we can't let that get us down! Never give up
+- 🔊 Motivational Quote: Our lives are busy and full of obligations,
+- but we can't let that get us down! Never give up
 
 <!--  👨‍💻 More at [aliceindev.dev](https://aliceindev.dev)-->
 
@@ -59,7 +60,7 @@
 <a href="https://www.instagram.com/alicee_sb1/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-alice_sb1-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href== "mailto: alicesantoss0805@gmail.com">
+<a href= "mailto: alicesantoss0805@gmail.com">
  <img align="center" src="https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail&logoColor=1572B6" alt="gmail"/>
 </a>
 </p>
