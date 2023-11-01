@@ -42,7 +42,7 @@
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=aliceindev&show_icons=true&theme=dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceindev&layout=compact&theme=radical" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliceindev&layout=compact&theme=merko" alt="maykbrito's most languages"/>
 </p>
 <!--theme=vision-friendly-dark
     theme=vision-friendly-dark-->
