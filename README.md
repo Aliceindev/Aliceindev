@@ -8,7 +8,7 @@
 
 - 🔥 Back-end and Front-end developer
 
-- 🔭 I am currently studying DS, Az-900, Python automation....
+- 🔭 I am currently studying Systems Development
 
 <!--- 🎗 Pronoun **She/her 😜**-->
 
