@@ -38,7 +38,7 @@
 
 <br><br>
 
-## ⚙️ &nbsp;GitHub Analytic
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=aliceindev&show_icons=true&theme=tokyonight" alt="maykbrito's stats"/>
