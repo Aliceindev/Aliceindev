@@ -6,7 +6,7 @@
 
 - 👩 I'm 17 years old and I'm studying high school
 
-- 🔥 Back-end and Front-end 
+- 🔥 Back-end and Front-end developer
 
 - 🔭 I am currently studying Systems Development
 
