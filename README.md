@@ -23,6 +23,7 @@
 ## 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=1572B6)&nbsp;
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=1572B6)&nbsp;
