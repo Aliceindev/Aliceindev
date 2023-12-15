@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aliceindev&color=yellow" alt="Profile views" /> </p>
 
 
-- 👩 I'm 18 years old and I'm studying high school
+- 👩 I'm 18 years old and I'm studying high schoo
 
 - 🔥 Back-end and Front-end developer
 
