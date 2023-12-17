@@ -1,6 +1,7 @@
 <!--<img align="right" height="590px" width="320px" src="https://raw.githubusercontent.com/gist/Aliceindev/0e2885667f60d17800cb07350a4f9f38/raw/69c2bd0589a6055e24e1ee74b608c245b978f8c3/githubcard1.svg"/>-->
 <img align="right" height="280px" width="250px" src="pg2.gif"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Alice Santos</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5071FF&random=false&width=435&lines=Being+a+developer+is+a+journey+where+;the+next+stop+is+solving+a+problem." alt="Typing SVG" /></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aliceindev&color=yellow" alt="Profile views" /> </p>
 
 
