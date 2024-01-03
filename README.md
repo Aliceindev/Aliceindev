@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aliceindev&color=yellow" alt="Profile views" /> </p>
 
 
-- 👩 I'm 18 years old and I intend to focus on programming dail
+- 👩 I'm 18 years old and I intend to focus on programming daily
 
 - 🔥 Back-end and Front-end developer
 
