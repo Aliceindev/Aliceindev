@@ -6,9 +6,11 @@
 
 - 👩 I'm 18 years old and I intend to focus on programming daily
 
+- 👩‍💻 Higher education in Computer Science 1/8
+
 - 🔥 Back-end and Front-end developer
 
-- 🔭 I am currently studying Systems Development
+- 🔭 Technician trained in Systems Development
 
 <!--- 🎗 Pronoun **She/her 😜**-->
 
