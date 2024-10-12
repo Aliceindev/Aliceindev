@@ -12,7 +12,7 @@
 
 - 🔭 Technician trained in Systems Development
 
-<!--- 🎗 Pronoun **She/her 😜**-->
+<!--- 🎗 Pronoun **She/her **-->
 
 - 🔊 Motivational Quote: Our lives are busy and full of obligations, but we can't let that get us down! Never give up
 
