@@ -60,8 +60,8 @@
 />
 <img 
     align="left" 
-    alt=".net" 
-    title=".NET"
+    alt="Dotnet" 
+    title="DotNET"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
