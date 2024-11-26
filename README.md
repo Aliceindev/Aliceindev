@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, i'am Alice Santos</h1>
 
-**`Desenvolvedora FullStack`**
+**`FullStack Developer`** **`Data Analyst`**
 
 - 👩 I'm 19 years old and I intend to focus on programming daily
 
