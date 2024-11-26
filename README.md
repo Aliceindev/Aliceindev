@@ -58,14 +58,14 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
-<!--<img 
+<img 
     align="left" 
-    alt="Dotnet" 
-    title="DotNET"
+    alt="Dot-net" 
+    title="Dot-NET"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-plain.svg"
-/>       !-->
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
+/>      
 <img 
     align="left" 
     alt="JavaScript" 
