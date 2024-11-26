@@ -64,7 +64,7 @@
     title=".NET"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnet/dotnet-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/net/net-original.svg" 
 />
 <img 
     align="left" 
