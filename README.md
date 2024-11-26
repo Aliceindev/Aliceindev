@@ -60,7 +60,7 @@
 />
 <img 
     align="left" 
-    alt="Dotnet" 
+    alt=".net" 
     title=".NET"
     width="30px" 
     style="padding-right: 10px;" 
