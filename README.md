@@ -2,7 +2,7 @@
 
 **`FullStack Developer`** **`Data Analyst`**
 
-- 👩 I'm 19 years old and I intend to focus on programming daily
+- 👩 I'm 19 years old and I intend to focus on programming dail
 
 - 👩‍💻 Higher education in Computer Science 2/8
 
