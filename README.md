@@ -4,7 +4,7 @@
 
 - 👩 I'm 20 years old and I intend to focus on programming daily
 
-- 👩‍💻 Higher education in Computer Science 4/8
+- 👩‍💻 Higher education in Computer Science 6/8
 
 - 🔥 Back-end and Front-end developer
 
